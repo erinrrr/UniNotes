@@ -328,4 +328,4 @@ Con `rm` non rimuoviamo completamente un dato dal disco ma rimuoviamo il suo ino
 - `du` fa il conto di tutte le dimensioni dei file e directory dati come argomento
 - `df`  mostra la dimensione e l'uso attuale del filesystem
 - `dd` Serve per creare file in modo più elaborato ovvero gestendo in modo specifico i blocchi. Possiamo usarlo infatti per copiare anche dei file speciali che non sono copiabili con `cp`. Può tornare utile anche nel caso visto sopra per cancellare completamente una zona di memoria.
-- `mkfs` serve a creare un filesystem su un device, esegua una formattazione dato che prepara quella memoria a memorizzare i dati in un certo modo. Possiamo poi montarli con `mount`.
+- `mkfs` serve a creare un filesystem su un device, esegue una formattazione dato che prepara quella memoria a memorizzare i dati in un certo modo. Possiamo poi montarli con `mount`.
