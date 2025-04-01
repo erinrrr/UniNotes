@@ -28,7 +28,7 @@ Il file che generiamo con gcc invece è un eseguibile che potrebbe essere esegui
 # Struttura di un Programma C
 Composto principalmente da due parti:
 - Main Function: È il punto da cui parte il programma, quindi può essere dove risiede tutto il codice oppure dove vengono chiamate le altre funzioni.
-- Funzioni: Blocchi di codice che svolgono determinate azioni, sono identificate da un nomo univoco.
+- Funzioni: Blocchi di codice che svolgono determinate azioni, sono identificate da un nome univoco.
 
 Queste due componenti possono trovarsi anche all'interno dello stesso file `.c`
 
