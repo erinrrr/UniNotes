@@ -1,4 +1,4 @@
-Internet é quindi composto da più reti, precisamente, redi di accesso e la backbone.
+Internet é quindi composto da più reti, precisamente, reti di accesso e la backbone.
 
 - **Rete di Accesso** - Sono reti che appunto ci forniscono accesso alla backbone, consideriamo rete di accesso il collegamento da un sistema fino al primo router che chiamiamo **edge router**
 
@@ -29,7 +29,7 @@ Un pacchetto quindi deve passare fra molte reti prima di arrivare a destinazione
 Il concetto di velocità di una rete comprende molti fattori, come:
 - Ampiezza di banda
 - bitrate
-- trhoughput
+- throughput
 - ritardi
 - perdita di pacchetti
 
